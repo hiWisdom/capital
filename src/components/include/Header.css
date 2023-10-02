@@ -1,0 +1,32 @@
+.home-title-container 
+{
+    position: absolute;
+    margin-top: 10%;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 1%;
+}
+
+
+.home-title 
+{
+   color: white;
+   font-size: xx-large;
+   font-weight: bolder;
+   padding: 1%;
+     
+}
+
+
+@media (max-width: 890px) {
+ 
+    .home-title 
+    {
+        height: auto;
+        color: white;
+        font-size: large;
+        font-weight: bolder;
+        
+    }
+
+}
